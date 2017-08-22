@@ -11,3 +11,4 @@ Nodejs Native AddOn to query hardware info
 		6：网卡当前MAC地址
 
 实现Nodejs调用C/C++
+ >Node.js 官方提供了C/C++ Addons 的机制让我们能够使用 V8 API 把 Node.js 和 C++ 结合起来
