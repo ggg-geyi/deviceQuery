@@ -15,5 +15,6 @@ Nodejs Native AddOn to query hardware info
  
 为什么要在Nodejs调用C/C++
 
-如何在Nodejs中调用动态链接库
- >ffi  swig
+如何在Nodejs中调用C/C++
+ >ffi  swig调用动态链接库
+ >直接编写nodejs addon的方式实现
